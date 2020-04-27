@@ -1,8 +1,9 @@
 # kareko.com
-My education experience
-Projects I have worked on
-A brief description of my BIO
-Eplanation about my spirit animal
+-My education experience
+-Projects I have worked on
+-A brief description of my BIO
+-Eplanation about my spirit animal
+
 Authors
 Brian
 
