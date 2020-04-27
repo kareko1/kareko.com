@@ -1,8 +1,4 @@
 # kareko.com
-The website is basically about my profile and my interests.
-Example Site
-This is my first website working under VISUAL STUDIO CODE:
-
 My education experience
 Projects I have worked on
 A brief description of my BIO
